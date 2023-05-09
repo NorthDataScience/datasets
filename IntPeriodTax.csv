@@ -1,4 +1,5 @@
-﻿Africa,Algeria,19.00%,19.00%,yes,no,no,,,Algeria applies a 19% sta...,assets.ey.c...,no info,no info,,,,,
+Continent,Country,VAT,VATM,StandardRate,ReducedRate,TaxExempt,Tax_Change_Date,Imp_tax_Exempt,Content,References,Successful_Camp,Active_Camp,Year,Camp_Name,Camp_Pet,More_Camp_Info,Rec_Articles
+Africa,Algeria,19.00%,19.00%,yes,no,no,,,Algeria applies a 19% sta...,assets.ey.c...,no info,no info,,,,,
 Africa,Angola,14.00%,14.00%,yes,no,no,,,Angola's VAT system was i...,assets.ey.c...,no info,no info,,,,,
 Africa,Benin,18.00%,18.00%,yes,no,no,,,Benin applies a tandard V...,impots.fina...,no info,no info,,,,,
 Africa,Botswana,12.00%,12.00%,yes,no,no,,,Botswana's standard VAT r...,assets.ey.c...,no info,no info,,,,,
